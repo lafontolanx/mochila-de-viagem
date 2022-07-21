@@ -12,3 +12,8 @@
 
 ## Certificado:
 <a href="https://cursos.alura.com.br/certificate/6e92789a-0488-4fd9-b50e-d00beda6283f">Link de acesso</a>
+
+## Página do Mochila de Viagem:
+
+<img src="./images/pagina-1.PNG">
+<img src="./images/pagina-2.PNG">
